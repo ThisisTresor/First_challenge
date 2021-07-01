@@ -1,0 +1,51 @@
+body {
+    
+    background-image: linear-gradient(rgba(25,43,76,0.8),rgba(25,43,76,0.8)), url("https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg");
+    background-size: cover;
+    font: 14px/20px "Lato", Arial, sans-serif;
+    color: white;
+    margin-top: 30px;
+    font-family: system-ui;
+  }
+  
+  .slide-container {
+    margin: auto;
+    width: 600px;
+    text-align: center;
+  }
+  
+  .wrapper {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+     }
+
+     h1{
+        font-size: 40px;
+        color: #fff;
+        text-transform: uppercase;
+        font-weight: 300;
+        text-align: center;
+        margin-bottom: 15px;
+        font-weight: bolder;
+
+     }
+     h2{
+       text-align: center;
+     }
+
+
+     div {
+      margin-bottom: 15px;
+      padding: 4px 12px;
+    }
+    
+   
+    
+    .info {
+      background-color: rgba(25,43,76,0.8);
+      border-left: 6px solid #2196F3;
+    }
+    
+    
+   
